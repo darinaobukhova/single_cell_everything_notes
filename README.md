@@ -4,4 +4,4 @@ A chaotic personal collection of things, related to single-cell biology field. M
 
 # Talk Notes
 
-- Talk on the probabilistic modelling of transcriptional dynamics in whole embryos and single cells by Magnus Rattray, organized by DFKZ and EMBL team. A very interesting take on the temporal regulation of expression and its modelling using _Gaussian processes._
+- Talk on the probabilistic modelling of transcriptional dynamics in whole embryos and single cells by Magnus Rattray, organized by DFKZ and EMBL team. A very interesting take on the temporal regulation of expression and its modelling using _Gaussian processes_. I've also made a brief summary of the talk with link to some of the papers introduced. It is available [here](https://drive.google.com/file/d/1RvMyUsDULHCKc24FRUKVCXsnJd0FnQZB/view?usp=sharing)
